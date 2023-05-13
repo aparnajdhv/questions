@@ -1,0 +1,19 @@
+.mask{
+    left: 0;
+    position: fixed;
+    background: black;
+    opacity: 0.5;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.loader{
+    position: absolute;
+    z-index: 9999;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+}
